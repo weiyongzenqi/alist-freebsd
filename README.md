@@ -1,9 +1,9 @@
 # alist-freebsd
 Automatically build alist (FreeBSD version)
 
-It seems many people use this project as a template to build other apps for FreeBSD.
+It seems many people use this project as a template to build apps for FreeBSD.
 
-Actually, in many situations, this will be not neccessary.
+Actually, in most situations, this will be not neccessary.
 
 Only apps that requires cgo (like alist) are needed to use a native FreeBSD environment to build, as currently no C cross-compiler for BSD platform exists.
 
