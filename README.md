@@ -1,10 +1,1 @@
-# alist-freebsd
-Automatically build alist (FreeBSD version)
-
-It seems many people use this project as a template to build apps for FreeBSD.
-
-Actually, in most situations, this will be not neccessary.
-
-Only apps that requires cgo (like alist) are needed to use a native FreeBSD environment to build, as currently no reliable C cross-compiler for BSD platform exists.
-
-If the app is written in pure Go (and has no cgo depenencies), you can simply using the `go` tool with GOOS=freebsd variable to build a FreeBSD binary.
+别薅serv00了，而且实际体验甚至不如rn 10刀一年的廉价机器，非图那个免费干啥呢，花一点钱享受更好的体验不好吗？
