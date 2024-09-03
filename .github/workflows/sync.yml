@@ -1,9 +1,9 @@
 name: Run Tests
 
-on:
-  schedule:
-    - cron: '0 16 */1 * *'
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '0 16 */1 * *'
+#   workflow_dispatch:
 
 jobs:
   tests:
